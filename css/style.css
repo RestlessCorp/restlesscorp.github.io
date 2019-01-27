@@ -34,6 +34,19 @@ p {
   margin-top: 40px;
 }
 
+.icon {
+    margin-top: -10px;
+    margin-bottom: -15px;
+
+    height: 50px;
+    width: 100px;
+}
+.social-icon {
+    
+    height: 40px;
+    width: 40px;
+}
+
 /* Links */
 
 a {
